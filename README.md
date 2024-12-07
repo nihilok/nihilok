@@ -7,4 +7,4 @@
 
 Professional Contributions:
 
-[![Screenshot from 2024-12-03 04-40-22](https://github.com/user-attachments/assets/d212ff9c-71f9-4014-86f6-53632a43d67b)](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)
+[![Screenshot from 2024-12-03 04-40-22](https://github.com/user-attachments/assets/d212ff9c-71f9-4014-86f6-53632a43d67b)](https://github.com/mikejar)

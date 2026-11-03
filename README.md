@@ -7,4 +7,4 @@
 
 Professional Contributions:
 
-[![Screenshot from 2024-12-03 04-40-22](https://github.com/user-attachments/assets/d212ff9c-71f9-4014-86f6-53632a43d67b)](https://github.com/mikejar)
+<a href="https://github.com/MichaelJarvisSendient"><img width="763" height="206" alt="image" src="https://github.com/user-attachments/assets/4b7f90d5-aced-499e-b926-b83e437f209d" /></a>
